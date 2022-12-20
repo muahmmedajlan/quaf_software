@@ -1,0 +1,246 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+CONFIG: Title: "Sahithyotsav 2017"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\Windows\System32\VB6STKIT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\Windows\System32\COMCAT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\Windows\System32\MSVCRT40.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\Windows\System32\stdole2.tlb"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\Windows\System32\asycfilt.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\Windows\System32\olepro32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\Windows\System32\oleaut32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\Windows\System32\msvbvm60.dll"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM32\stdole2.tlb"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\olepro32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\oleaut32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'Setup1.exe'....
+
+ACTION: PrivateFile: "e:\QUAF SOFT\campusresult1.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\campusresult0.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\winners.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\valuationshort.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\valuation.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\teampoints.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\sectionwiseteampoint.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\scheduleall.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\schedule1.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\schedule.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\sahithyotsav.mdb"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\result.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\participantscount.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\participants.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\onetwothree.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\label.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\itemwise.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\itemprint.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\indvpoint.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\indvdetpnt.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\idcard.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\groupcertificate.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\entry_form.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\Entry_Form.mdb"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\details.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\declared.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\codelist3.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\codelist2.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\codelist1.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\certificate.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\campuspoints.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\campusparticipants.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\calllist.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\aplus.rpt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\Crystal\u2ddisk.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\p2sodbc.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\p2irdao.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\p2ctdao.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\p2bdao.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\p2bbnd.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSVCRT20.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\CO2C40EN.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\pg32.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\implode.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\crpe32.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\crystl32.ocx"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\DBGRID32.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\DBLIST32.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\VB5DB.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSREPL35.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSRD2X35.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\expsrv.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\vbajet32.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSJINT35.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSJTER35.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSJET35.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSFLXGRD.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "e:\QUAF SOFT\Sahithyotsav.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\crystl32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\DBGRID32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\DBLIST32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSRD2X35.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSJET35.DLL"
+
+ACTION: DllSelfRegister: "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSFLXGRD.OCX"
+
+ACTION: ShellLink: "Arts fest", "Arts fest"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\Sahithyotsav.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Sahithyotsav.exe", ""
+
